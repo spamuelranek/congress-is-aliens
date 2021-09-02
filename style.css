@@ -1,0 +1,29 @@
+body {
+    background-color: darkgray);
+    max-width: 600px;
+}
+
+h1 {
+    color: rgb(0, 209, 0);
+}
+
+h3 {
+    color: purple;
+}
+
+header {
+    border: white 3px solid;
+    text-align: center;
+}
+
+#section1{
+    float: left;
+    text-align: center;
+    border: white 3px solid;
+}
+
+#section2{
+    float: right;
+    text-align: center;
+    border: white 3px solid;
+}
