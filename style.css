@@ -1,6 +1,7 @@
 body {
-    background-color: darkgray);
+    background-color: darkgray;
     max-width: 600px;
+    margin: auto;
 }
 
 h1 {
